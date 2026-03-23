@@ -1,139 +1,109 @@
-# 👋 Hi, I'm Ankit Singh Rawat
+<h1 align="center">Ankit Singh Rawat</h1>
+<h3 align="center">MERN Stack Developer | BCA Student | Full-Stack Engineer</h3>
 
-💻 MERN Stack Developer | 🎓 BCA Student | 🚀 Building Scalable Web Apps
-
----
-
-## 🚀 About Me
-
-💡 Motivated BCA student passionate about full-stack development
-⚡ Skilled in building scalable MERN applications
-🔐 Strong experience with authentication systems & REST APIs
-🎯 Focused on clean UI, performance, and real-world problem solving
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-
-### 🗄 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
-
-### 🧰 Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge\&logo=render)
+<p align="center">
+  <a href="mailto:58ankit2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## 💼 Experience
+## About Me
 
-### 🚀 MERN Stack Intern — Headway Vision
-
-📅 July 2025 – Feb 2026
-
-* Built and maintained full-stack MERN applications
-* Developed RESTful APIs for frontend-backend communication
-* Created responsive UI using React.js & Tailwind CSS
-* Collaborated using Git & GitHub in team environments
+* MERN Stack Developer with hands-on experience building scalable applications
+* Strong in REST APIs, authentication systems, and responsive UI
+* Focused on performance, clean code, and real-world problem solving
 
 ---
 
-## 🔥 Featured Projects
+## Tech Stack
 
-### 🎓 SearchYourDream
+<p align="center">
 
-🔗 Live: https://fmc-dkhe.vercel.app/
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,git,github,vercel" />
+
+</p>
+
+---
+
+## Experience
+
+**MERN Stack Intern — Headway Vision**
+*July 2025 – Feb 2026*
+
+* Developed full-stack applications using MongoDB, Express.js, React.js, Node.js
+* Built REST APIs and integrated frontend-backend systems
+* Designed reusable UI components using React & Tailwind
+* Collaborated using Git & GitHub
+
+---
+
+## Projects
+
+### SearchYourDream
+
+🔗 https://fmc-dkhe.vercel.app/
 
 * University finder & admission platform
-* Role-based dashboards for students & universities
+* Role-based dashboards (students & universities)
 * Firebase authentication (Google, Facebook, Email)
-* Features: applications, scholarships, counseling
-* Real-time MongoDB data handling
-* Responsive UI using React.js & Tailwind CSS
+* Scholarship & counseling system
+* MongoDB real-time data
 
 ---
 
-### 🏠 RealEstateHub
+### RealEstateHub
 
-🔗 Live: https://project2-kappa-ten.vercel.app/
+🔗 https://project2-kappa-ten.vercel.app/
 
-* Real estate platform for buying, selling, and renting properties
-* Categorized listings (land, houses, PG, hotels)
-* Backend APIs using Node.js & Express.js
-* MongoDB data management
-* Responsive UI using React.js & Tailwind CSS
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+* Real estate buying/selling/renting platform
+* Categorized listings & booking system
+* Backend APIs using Node.js & Express
+* MongoDB integration
+* Responsive UI using React & Tailwind
 
 ---
 
-## 🎓 Education
+## GitHub Stats
 
-🎓 Bachelor of Computer Applications (BCA)
-📍 Amity University (Online)
-📅 2024 – 2027
-📊 CGPA: 7.41
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧠 Currently Learning
+## Education
+
+Bachelor of Computer Applications (BCA)
+Amity University (Online)
+2024 – 2027 | CGPA: 7.41
+
+---
+
+## Currently Learning
 
 * Advanced MERN Architecture
-* System Design Basics
+* System Design
 * Performance Optimization
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-* 🚀 Built & deployed multiple real-world MERN applications
-* 💡 Strong problem-solving through hands-on development
-* 📈 Continuously improving development skills
-
----
-
-## 💬 Ask Me About
-
-* ⚡ MERN Stack Development
-* 🔐 Authentication Systems
-* 🌐 REST APIs
-* 🎨 Responsive UI Design
+* Built and deployed multiple real-world MERN applications
+* Strong problem-solving through hands-on development
+* Continuously improving development skills
 
 ---
 
-## 🤝 Connect With Me
-
-📧 Email: [58ankit2005@gmail.com](mailto:58ankit2005@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/
-
----
-
-⭐ *"Code. Build. Learn. Repeat."*
+<p align="center">
+  <i>Code. Build. Learn. Repeat.</i>
+</p>
