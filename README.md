@@ -62,25 +62,26 @@
 
 ### 🎓 SearchYourDream
 
-🔗 Live Link: *(add your link here)*
+🔗 Live: https://fmc-dkhe.vercel.app/
 
 * University finder & admission platform
 * Role-based dashboards for students & universities
 * Firebase authentication (Google, Facebook, Email)
 * Features: applications, scholarships, counseling
 * Real-time MongoDB data handling
+* Responsive UI using React.js & Tailwind CSS
 
 ---
 
 ### 🏠 RealEstateHub
 
-🔗 Live Link: *(add your link here)*
+🔗 Live: https://project2-kappa-ten.vercel.app/
 
-* Real estate platform for buying/selling/renting
-* Categorized property listings & booking system
-* Backend APIs using Node.js & Express
+* Real estate platform for buying, selling, and renting properties
+* Categorized listings (land, houses, PG, hotels)
+* Backend APIs using Node.js & Express.js
 * MongoDB data management
-* Responsive UI with React & Tailwind
+* Responsive UI using React.js & Tailwind CSS
 
 ---
 
