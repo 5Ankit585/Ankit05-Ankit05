@@ -1,37 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ankit%20Singh%20Rawat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Ankit%20Singh%20Rawat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20MERN%20Developer%20%E2%80%94%20Building%20things%20that%20matter&descSize=17&descAlignY=57&descColor=94a3b8" />
 </div>
 
+<br/>
+
 <div align="center">
+  <a href="mailto:58ankit2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-58ankit2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Singh%20Rawat-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://fmc-dkhe.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=flat-square&logo=vercel&logoColor=white" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=64748b&label=Profile+Views" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+MERN+applications+%F0%9F%9A%80;REST+APIs+%7C+Auth+Systems+%7C+Responsive+UI;Clean+Code+%7C+Real-World+Problem+Solving;Code.+Build.+Learn.+Repeat.+%E2%9C%A8)](https://git.io/typing-svg)
+<br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=MongoDB+%C2%B7+Express.js+%C2%B7+React.js+%C2%B7+Node.js;REST+APIs+%C2%B7+Auth+Systems+%C2%B7+Responsive+UI;Turning+ideas+into+production-ready+apps;Open+to+Freelance+%26+Full-Time+Opportunities" />
 </div>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-[![Email](https://img.shields.io/badge/Gmail-58ankit2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:58ankit2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Singh%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Projects-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://fmc-dkhe.vercel.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
+```typescript
+const ankit: Developer = {
+  name        : "Ankit Singh Rawat",
+  role        : "MERN Stack Developer  |  Full-Stack Engineer",
+  location    : "India 🇮🇳",
+  education   : "BCA  @  Amity University (Online)  |  CGPA: 7.41",
+  experience  : "MERN Stack Intern  @  Headway Vision  (Jul 2025 – Feb 2026)",
 
-</div>
+  techStack   : {
+    frontend  : ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Tailwind CSS"],
+    backend   : ["Node.js", "Express.js", "REST APIs"],
+    database  : ["MongoDB", "Firebase Firestore"],
+    auth      : ["Firebase Auth  (Google · Facebook · Email)"],
+    tools     : ["Git", "GitHub", "Vercel", "Postman", "VS Code"],
+  },
 
----
-
-## 👨‍💻 About Me
-
-```javascript
-const ankit = {
-  name:       "Ankit Singh Rawat",
-  role:       "MERN Stack Developer",
-  education:  "BCA @ Amity University (Online) | CGPA: 7.41",
-  experience: "MERN Stack Intern @ Headway Vision (Jul 2025 – Feb 2026)",
-  passion:    ["Scalable Apps", "Clean Architecture", "Real-World Problem Solving"],
-  currently:  ["Advanced MERN Architecture", "System Design", "Performance Optimization"],
-  motto:      "Code. Build. Learn. Repeat. 🚀"
+  learning    : ["Advanced MERN Architecture", "System Design", "Performance Optimization"],
+  openTo      : ["Freelance Projects", "Full-Time Roles", "Open Source"],
+  motto       : "Code. Build. Learn. Repeat. 🚀",
 };
 ```
 
@@ -41,43 +55,48 @@ const ankit = {
 
 <div align="center">
 
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Backend & Database**
 
-### 🗄️ Database & Auth
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Tools & Deployment
+**Tools & Deployment**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-<table>
+<table width="100%">
   <tr>
     <td>
-      <h3>🏢 MERN Stack Intern — <a href="#">Headway Vision</a></h3>
-      <p><code>📅 July 2025 – February 2026</code></p>
+      <strong>🏢 MERN Stack Intern</strong> &nbsp;·&nbsp; <strong>Headway Vision</strong>
+      <br/>
+      <sub>📅 July 2025 – February 2026 &nbsp;|&nbsp; 8 months</sub>
+      <br/><br/>
       <ul>
-        <li>🔨 Developed full-stack applications using the complete MERN ecosystem</li>
-        <li>🔗 Built and integrated RESTful APIs connecting frontend and backend systems</li>
-        <li>🎨 Designed reusable, responsive UI components using React & Tailwind CSS</li>
-        <li>🤝 Collaborated effectively using Git & GitHub in a team environment</li>
+        <li>Developed and maintained full-stack web applications using the complete MERN stack</li>
+        <li>Designed and implemented RESTful APIs with proper error handling and data validation</li>
+        <li>Built modular, reusable React components integrated with responsive Tailwind CSS layouts</li>
+        <li>Connected frontend to backend systems — managing state, routing, and API communication</li>
+        <li>Used Git & GitHub for version control, branching, and team collaboration workflows</li>
       </ul>
     </td>
   </tr>
@@ -85,47 +104,52 @@ const ankit = {
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🎓 SearchYourDream — University Finder & Admission Platform
+### 🎓 SearchYourDream
+**University Finder & Admission Platform**
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0f0f0f?style=for-the-badge&logo=vercel)](https://fmc-dkhe.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-000?style=flat-square&logo=vercel)](https://fmc-dkhe.vercel.app/)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-</div>
+A platform connecting students to universities — featuring smart discovery, role-based access, and integrated counseling.
 
-> A comprehensive platform connecting students with their dream universities through smart matching, scholarships, and counseling.
+**Highlights:**
+- 🔐 Multi-provider Firebase Auth (Google · Facebook · Email)
+- 👥 Role-based dashboards for Students & Universities
+- 🎓 Scholarship discovery & counseling system
+- ⚡ Real-time MongoDB data layer
 
-| Feature | Details |
-|---|---|
-| 👥 **Role-Based Dashboards** | Separate views for Students & Universities |
-| 🔐 **Authentication** | Firebase (Google, Facebook & Email/Password) |
-| 🎓 **Scholarship System** | Built-in scholarship discovery & counseling |
-| ⚡ **Real-time Data** | Powered by MongoDB |
+</td>
+<td width="50%" valign="top">
 
-**Stack:** `React` `Node.js` `Express.js` `MongoDB` `Firebase` `Tailwind CSS`
+### 🏠 RealEstateHub
+**Property Buying, Selling & Renting Platform**
 
----
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-000?style=flat-square&logo=vercel)](https://project2-kappa-ten.vercel.app/)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<div align="center">
+A full-featured real estate marketplace for browsing, listing, and booking properties with a smooth user experience.
 
-### 🏠 RealEstateHub — Property Buying, Selling & Renting Platform
+**Highlights:**
+- 🏘️ Categorized Buy / Sell / Rent listings
+- 📅 End-to-end property booking flow
+- 🔌 REST APIs built with Node.js & Express
+- 📱 Fully responsive React + Tailwind UI
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0f0f0f?style=for-the-badge&logo=vercel)](https://project2-kappa-ten.vercel.app/)
-
-</div>
-
-> A full-featured real estate platform enabling users to browse, list, and book properties with ease.
-
-| Feature | Details |
-|---|---|
-| 🏘️ **Categorized Listings** | Buy, Sell & Rent in one place |
-| 📅 **Booking System** | End-to-end property booking flow |
-| 🔌 **Backend APIs** | Node.js & Express powered REST APIs |
-| 📱 **Responsive UI** | Seamless experience across all devices |
-
-**Stack:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+</td>
+</tr>
+</table>
 
 ---
 
@@ -133,16 +157,17 @@ const ankit = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&custom_title=GitHub+Overview" />
+&nbsp;
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=github_dark&hide_border=true&custom_title=Most+Used+Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=600" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Activity" />
 
 </div>
 
@@ -152,44 +177,45 @@ const ankit = {
 
 <div align="center">
 
-| 🏫 Institution | 📚 Degree | 📅 Duration | 🎯 CGPA |
-|:---:|:---:|:---:|:---:|
-| Amity University (Online) | Bachelor of Computer Applications (BCA) | 2024 – 2027 | **7.41** |
+| 🏛️ Institution | 📘 Degree | 📅 Year | 🏅 CGPA |
+|:---|:---|:---:|:---:|
+| Amity University (Online) | Bachelor of Computer Applications (BCA) | 2024 – 2027 | **7.41 / 10** |
 
 </div>
 
 ---
 
-## 📈 Currently Learning
+## 📌 Currently Focusing On
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────┐
-│  🏗️  Advanced MERN Architecture & Design Patterns   │
-│  🔧  System Design & Scalability Principles          │
-│  ⚡  Performance Optimization & Best Practices       │
-└─────────────────────────────────────────────────────┘
-```
+| 🏗️ Advanced MERN Architecture | 🔧 System Design | ⚡ Performance Optimization |
+|:---:|:---:|:---:|
+| Scalable APIs, clean folder structure, microservice patterns | Load balancing, caching, database indexing | Code splitting, lazy loading, bundle optimization |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📬 Let's Connect
 
-- 🚀 **Built & deployed** multiple production-grade MERN applications on Vercel
-- 🔐 **Integrated** multi-provider Firebase authentication (Google, Facebook, Email)
-- 📡 **Architected** RESTful APIs connecting full-stack systems end-to-end
-- 🎨 **Delivered** responsive, component-driven UIs using React & Tailwind CSS
-- 💪 **Completed** hands-on MERN internship with real-world project ownership
+<div align="center">
+
+I'm open to **freelance work**, **full-time opportunities**, and **interesting collaborations.**
+Don't hesitate to reach out — I'd love to connect!
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:58ankit2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fmc-dkhe.vercel.app/)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <i>✨ Thanks for visiting! If you like my work, consider giving a ⭐ to my repositories!</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" />
+  <br/>
+  <sub>⭐ If you find my work valuable, consider starring my repositories — it truly means a lot!</sub>
 </div>
