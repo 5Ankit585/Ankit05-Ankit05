@@ -119,19 +119,30 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Statistics & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=a855f7&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b)](https://github.com/YOUR_USERNAME)
+<!-- Streak Card — Total Contributions | Current Streak | Longest Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=a855f7&fire=a855f7&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=64748b&sideNums=ffffff&currStreakNum=ffffff&mode=weekly)](https://github.com/YOUR_USERNAME)
 
-<br>
+<br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=a855f7&point=00d4ff&area=true&area_color=00d4ff)](https://github.com/YOUR_USERNAME)
+<!-- Contribution Activity Graph — matches the graph shown in screenshot -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=a855f7&point=00d4ff&area=true&area_color=20103a&from=2025-01-01&to=2026-12-31)](https://github.com/YOUR_USERNAME)
 
-<br>
+<br/>
 
+<!-- Profile Details Card — Contributions in last year graph (2025–2026) -->
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME) [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+<br/>
+
+<!-- Top Languages by Repo + Top Languages by Commit — side by side like in screenshot -->
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)&nbsp;&nbsp;[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+
+<br/>
+
+<!-- Stats Card -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/YOUR_USERNAME)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e2e8f0&layout=compact&langs_count=6)](https://github.com/YOUR_USERNAME)
 
 ---
 
