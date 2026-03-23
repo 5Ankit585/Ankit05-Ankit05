@@ -130,8 +130,8 @@
 
 ## 🤝 Connect With Me
 
-📧 Email: *(add your email)*
-💼 LinkedIn: *(add your link)*
+📧 Email: [58ankit2005@gmail.com](mailto:58ankit2005@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/
 
 ---
 
