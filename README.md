@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ankit Singh Rawat
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Engineer;Building+scalable+real-world+applications;REST+APIs+%7C+Auth+Systems+%7C+Responsive+UI)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Engineer;Building+scalable+real-world+applications;REST+APIs+%7C+Auth+Systems+%7C+Responsive+UI)](https://github.com/5Ankit585)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Singh%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/)
 [![Gmail](https://img.shields.io/badge/Gmail-58ankit2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:58ankit2005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://fmc-dkhe.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00d4ff&label=Profile+Views)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=5Ankit585&style=for-the-badge&color=00d4ff&label=Profile+Views)](https://github.com/5Ankit585)
 
 ---
 
@@ -122,27 +122,27 @@
 ## 📊 GitHub Statistics & Activity
 
 <!-- Streak Card — Total Contributions | Current Streak | Longest Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=a855f7&fire=a855f7&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=64748b&sideNums=ffffff&currStreakNum=ffffff&mode=weekly)](https://github.com/YOUR_USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com?user=5Ankit585&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=a855f7&fire=a855f7&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=64748b&sideNums=ffffff&currStreakNum=ffffff&mode=weekly)](https://github.com/5Ankit585)
 
 <br/>
 
 <!-- Contribution Activity Graph — matches the graph shown in screenshot -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=a855f7&point=00d4ff&area=true&area_color=20103a&from=2025-01-01&to=2026-12-31)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=5Ankit585&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=a855f7&point=00d4ff&area=true&area_color=20103a&from=2025-01-01&to=2026-12-31)](https://github.com/5Ankit585)
 
 <br/>
 
 <!-- Profile Details Card — Contributions in last year graph (2025–2026) -->
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=5Ankit585&theme=tokyonight)](https://github.com/5Ankit585)
 
 <br/>
 
 <!-- Top Languages by Repo + Top Languages by Commit — side by side like in screenshot -->
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)&nbsp;&nbsp;[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5Ankit585&theme=tokyonight)](https://github.com/5Ankit585)&nbsp;&nbsp;[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=5Ankit585&theme=tokyonight)](https://github.com/5Ankit585)
 
 <br/>
 
 <!-- Stats Card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/YOUR_USERNAME)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e2e8f0&layout=compact&langs_count=6)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5Ankit585&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/5Ankit585)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5Ankit585&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e2e8f0&layout=compact&langs_count=6)](https://github.com/5Ankit585)
 
 ---
 
@@ -156,4 +156,4 @@
 
 ---
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer)](https://github.com/YOUR_USERNAME)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer)](https://github.com/5Ankit585)
