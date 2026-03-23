@@ -1,129 +1,148 @@
 # 👋 Hi, I'm Ankit Singh Rawat
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full-Stack+Engineer;REST+APIs+%7C+Auth+Systems+%7C+Responsive+UI;Building+scalable+real-world+applications)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full-Stack+Engineer;Building+scalable+real-world+applications;REST+APIs+%7C+Auth+Systems+%7C+Responsive+UI)](https://github.com/YOUR_USERNAME)
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&logoColor=white&color=00d4ff)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00d4ff)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Singh%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-singh-rawat-7b25b8334/)
+[![Gmail](https://img.shields.io/badge/Gmail-58ankit2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:58ankit2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://fmc-dkhe.vercel.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00d4ff&label=Profile+Views)](https://github.com/YOUR_USERNAME)
 
 ---
 
-### 💡 *Working at the intersection of frontend elegance, backend logic, and real-world impact*
+### 💡 *Turning ideas into production-ready full-stack applications — one commit at a time*
 
-## 🔨 What I'm Building
+---
+
+## 🔨 What I Build
 
 |  |  |  |
 | --- | --- | --- |
-| 🌐 **Full-Stack Apps** <br/><br/> • End-to-end MERN applications <br/> • Role-based access & dashboards <br/> • Real-time data with MongoDB | ⚙️ **Backend Systems** <br/><br/> • RESTful API design & integration <br/> • Auth systems (JWT & Firebase) <br/> • Data validation & error handling | 🎨 **Frontend Interfaces** <br/><br/> • React component architecture <br/> • Responsive UI with Tailwind CSS <br/> • State management & routing |
+| 🌐 **Full-Stack MERN Apps** <br><br> • End-to-end web applications <br> • Role-based dashboards & access <br> • Real-time MongoDB data layers | ⚙️ **Backend & REST APIs** <br><br> • RESTful API design & integration <br> • JWT & Firebase authentication <br> • Data validation & error handling | 🎨 **Frontend Interfaces** <br><br> • React component architecture <br> • Responsive UI with Tailwind CSS <br> • Client-side routing & state mgmt |
+
+---
 
 ## 🌱 Currently Learning
 
 ```
-🏗️  Advanced MERN Architecture — microservices, scalable folder structure, design patterns
-🔧  System Design — load balancing, caching, database indexing, API rate limiting
-⚡  Performance Optimization — code splitting, lazy loading, bundle size reduction
+🏗️  Advanced MERN Architecture   —  Scalable folder structure, microservice patterns, design principles
+🔧  System Design                 —  Load balancing, caching strategies, database indexing
+⚡  Performance Optimization      —  Code splitting, lazy loading, bundle optimization
 ```
+
+---
 
 ## 🤝 Open to Collaboration On
 
-* 🚀 Full-stack **MERN** projects with real-world use cases
-* 🔐 **Authentication** systems and role-based access control
-* 🌍 **Open-source** web applications and developer tools
-* 💼 **Freelance** projects & full-time opportunities
+- 🚀 Full-stack **MERN** projects with real-world impact
+- 🔐 **Authentication & security** systems (JWT, OAuth, Firebase)
+- 🌍 **Open-source** web applications and developer tools
+- 💼 **Freelance** projects & full-time opportunities
+
+---
 
 ## 🧠 Ask Me About
 
 | 🌐 **MERN Stack** | 🔌 **REST APIs** | 🔥 **Firebase** |
-| --- | --- | --- |
-| MongoDB schemas & aggregation | Endpoint design & versioning | Multi-provider Auth |
-| React hooks & component patterns | Error handling & validation | Firestore real-time data |
-| Node.js & Express architecture | JWT auth & middleware | Google · Facebook · Email |
-
-## 🛠️ Tech Stack
-
-### Frontend
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-
-### Backend & Database
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-### Tools & Deployment
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+| :---: | :---: | :---: |
+| MongoDB schemas | Endpoint design | Multi-provider Auth |
+| React hooks & patterns | Middleware & validation | Firestore real-time |
+| Express.js architecture | JWT authentication | Google · Facebook · Email |
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-**MERN Stack Intern — Headway Vision** &nbsp;·&nbsp; `Jul 2025 – Feb 2026`
+### 🖥️ Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-* Developed and maintained full-stack web applications using the complete MERN stack
-* Designed and implemented RESTful APIs with proper error handling and data validation
-* Built modular, reusable React components with responsive Tailwind CSS layouts
-* Connected frontend to backend — managing state, routing, and API communication
-* Collaborated using Git & GitHub with branching and code review workflows
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Database & Auth
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+**🏢 MERN Stack Intern — Headway Vision** &nbsp;|&nbsp; `July 2025 – February 2026` &nbsp;|&nbsp; 8 months
+
+- Built full-stack web applications using MongoDB, Express.js, React.js, and Node.js
+- Designed and implemented RESTful APIs with proper validation and error handling
+- Created reusable, modular React components with responsive Tailwind CSS layouts
+- Managed frontend-backend integration — state management, routing, and API calls
+- Collaborated with team using Git, GitHub branching, and code review workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 [SearchYourDream](https://fmc-dkhe.vercel.app/) — University Finder & Admission Platform
+### 🎓 SearchYourDream &nbsp;—&nbsp; [Live Demo](https://fmc-dkhe.vercel.app/)
+> University finder and admission platform connecting students to their dream universities
 
-> A platform connecting students to universities through smart discovery, scholarship listings, and counseling.
+| Feature | Tech Used |
+| :--- | :--- |
+| 🔐 Multi-provider authentication (Google, Facebook, Email) | Firebase Auth |
+| 👥 Role-based dashboards for Students & Universities | React, Node.js |
+| 🎓 Scholarship discovery & counseling system | Express.js, MongoDB |
+| ⚡ Real-time data fetching and updates | MongoDB, REST API |
 
-| Feature | Stack |
-|---|---|
-| 🔐 Multi-provider Firebase Auth (Google · Facebook · Email) | `Firebase` `React` |
-| 👥 Role-based dashboards for Students & Universities | `Node.js` `Express.js` |
-| 🎓 Scholarship discovery & counseling system | `MongoDB` `Tailwind CSS` |
-| ⚡ Real-time data layer with live updates | `MongoDB` `REST API` |
-
----
-
-### 🏠 [RealEstateHub](https://project2-kappa-ten.vercel.app/) — Property Buying, Selling & Renting
-
-> A full-featured real estate marketplace for browsing, listing, and booking properties end-to-end.
-
-| Feature | Stack |
-|---|---|
-| 🏘️ Categorized Buy / Sell / Rent listings | `React` `Tailwind CSS` |
-| 📅 End-to-end property booking flow | `Node.js` `Express.js` |
-| 🔌 RESTful APIs with validation & error handling | `Express.js` `MongoDB` |
-| 📱 Fully responsive cross-device UI | `React` `CSS3` |
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Firebase` `Tailwind CSS`
 
 ---
 
-## 📊 GitHub Statistics & Activity
+### 🏠 RealEstateHub &nbsp;—&nbsp; [Live Demo](https://project2-kappa-ten.vercel.app/)
+> Full-featured real estate marketplace for buying, selling, and renting properties
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0)](https://github.com/YOUR_GITHUB_USERNAME)
+| Feature | Tech Used |
+| :--- | :--- |
+| 🏘️ Categorized property listings (Buy / Sell / Rent) | React, Tailwind CSS |
+| 📅 End-to-end property booking flow | Node.js, Express.js |
+| 🔌 RESTful APIs with full CRUD operations | Express.js, MongoDB |
+| 📱 Fully responsive design across all devices | React, CSS3 |
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=00d4ff&line=a855f7&point=00d4ff&area=true)](https://github.com/YOUR_GITHUB_USERNAME)
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME)
+---
 
-[![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME)
+## 📊 GitHub Stats & Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=a855f7&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=64748b)](https://github.com/YOUR_USERNAME)
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d4ff&line=a855f7&point=00d4ff&area=true&area_color=00d4ff)](https://github.com/YOUR_USERNAME)
+
+<br>
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
+
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME) [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)** &nbsp;·&nbsp; Amity University (Online) &nbsp;·&nbsp; `2024 – 2027` &nbsp;·&nbsp; CGPA: **7.41**
+**Bachelor of Computer Applications (BCA)** &nbsp;|&nbsp; Amity University (Online) &nbsp;|&nbsp; `2024 – 2027` &nbsp;|&nbsp; CGPA: **7.41 / 10**
 
 ---
 
-### 💭 *"Every bug is just a feature waiting to be understood — then fixed."*
+### 💬 *"Every complex system was once a simple idea — built piece by piece."*
 
 ---
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer)](https://github.com/YOUR_GITHUB_USERNAME)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer)](https://github.com/YOUR_USERNAME)
